@@ -42,7 +42,7 @@
         // Add new contact
         $scope.saveContact = function(contact) {
             $scope.contacts.push(contact);
-            $scope.contac = {};
+            $scope.contact = {};
         };
     }]);
 })();
