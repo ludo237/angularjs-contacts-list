@@ -1,0 +1,33 @@
+.form-control.contact
+{
+    border: none;
+    border-bottom: #ccc solid thin;
+    border-radius: 0px;
+    box-shadow: none;
+    padding: 0px;
+    margin: 0px;
+    color: #333333;
+    line-height: 1.79;
+    height: 20px;
+}
+
+.form-control.contact.small
+{
+    color: #999;
+}
+
+.form-control.contact.big
+{
+    line-height: 1.2;
+    font-size: 19px;
+}
+
+span.input-group-addon.contact
+{
+    border: none;
+    border-bottom: #ccc solid thin;
+    padding:0px;
+    border-radius: 0px;
+    background-color: transparent;
+    padding-right: 5px;
+}
