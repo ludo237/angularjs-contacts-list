@@ -1,5 +1,5 @@
 <?php
-
+// Simple check
 if ($_SERVER['REQUEST_METHOD'] == 'POST')
 {
     // Grab the real image name
